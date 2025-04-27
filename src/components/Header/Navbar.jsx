@@ -6,6 +6,7 @@ const Navbar = () => {
     <>
      <Link> <li to='/' className="m-2">Home</li></Link>
       <Link><li to='/about' className="m-2">about</li></Link>
+      <Link><li to='/readList' className="m-2">ReadList</li></Link>
     </>
   );
 
